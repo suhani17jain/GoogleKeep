@@ -1,0 +1,40 @@
+.header {
+    background-color: lightblue;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding: 0px 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.logoSection {
+    display: flex;
+    flex: 20%;
+    justify-items: center;
+    align-items: center;
+    background-color: aliceblue;
+    padding: 0 20px;
+}
+
+.searchBar {
+    flex: 80%;
+    background-color: aquamarine;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+
+h3 {
+    
+}
+
+.bars > div {
+    width: 20px;
+  height: 2px;
+  background-color: black;
+  margin: 4px 0;
+}
