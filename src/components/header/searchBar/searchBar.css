@@ -1,9 +1,10 @@
 .searchbar {
     background: #f1f3f4;
-    border: 1px solid transparent;
+    border: 0.1px solid transparent;
     max-width: 720px;
     position: relative;
     text-align: center;
+    border-radius: 10px;
 }
 
 .searchInput {
